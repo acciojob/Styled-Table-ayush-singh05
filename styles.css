@@ -2,7 +2,7 @@
 table{
        width: 100%;
        border: none;
-       
+       border-collapse:collapse;
     }
     .heading, .heading th {
         background-color: #215a8e;
