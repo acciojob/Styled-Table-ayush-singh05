@@ -1,1 +1,18 @@
 /* your code */
+table{
+       width: 100%;
+       border: none;
+       
+    }
+    .heading, .heading th {
+        background-color: #215a8e;
+       
+        border: none;
+    }
+    .heading th {
+        align-content: center;
+        color: white;
+    }
+    .line-odd{
+        background-color: #ddd;
+    }
